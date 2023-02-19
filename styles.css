@@ -1,3 +1,24 @@
 h1{
     text-align: center;
 }
+
+.mainimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+}
+
+.desc{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+.ingredients{
+    font-size: 20px;
+}
+
+.directions{
+    font-size: 18px;
+}
